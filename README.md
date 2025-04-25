@@ -1,2 +1,1 @@
-# Isa
-Baban aiki
+#Isa
